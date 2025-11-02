@@ -1,0 +1,46 @@
+{
+  "forms": [
+    {
+      "title": "Aadhaar Update Form",
+      "link": "https://uidai.gov.in/images/aadhaar_enrolment_correction_form_version_2.1.pdf"
+    },
+    {
+      "title": "PAN Card Form 49A",
+      "link": "https://www.incometaxindia.gov.in/forms/pan/pan-form49a.pdf"
+    },
+    {
+      "title": "Voter ID Form 6",
+      "link": "https://eci.gov.in/files/file/4776-form-6-application-for-inclusion-of-name-in-electoral-roll/"
+    },
+    {
+      "title": "Driving License Form 1",
+      "link": "https://parivahan.gov.in/parivahan/sites/default/files/DownloadForm/Form1.pdf"
+    },
+    {
+      "title": "Passport Application Form",
+      "link": "https://www.passportindia.gov.in/AppOnlineProject/pdf/Passport_Application_Form_Main_English.pdf"
+    }
+  ],
+  "schemes": [
+    {
+      "title": "PM Kisan Samman Nidhi",
+      "link": "https://pmkisan.gov.in/"
+    },
+    {
+      "title": "Ayushman Bharat Yojana",
+      "link": "https://pmjay.gov.in/"
+    },
+    {
+      "title": "PM Mudra Loan Yojana",
+      "link": "https://www.mudra.org.in/"
+    },
+    {
+      "title": "Sukanya Samriddhi Yojana",
+      "link": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89"
+    },
+    {
+      "title": "PM Awas Yojana",
+      "link": "https://pmaymis.gov.in/"
+    }
+  ]
+}
